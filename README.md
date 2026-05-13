@@ -1,8 +1,5 @@
 ## Hi there, my name is Perla Garza 👋
 
-
-**perla-zg/perla-zg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # 💫 About Me:
 🔭 I’m currently working on GCP and  AWS projects<br>🤝 I’m looking to collaborate on anything involving containers, metrics, and tea <br>🌱 I’m always learning Devops practices and tools<br>⚡ Fun fact: My Linux journey started when I accidentally broke my brother’s OS
 
